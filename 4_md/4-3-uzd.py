@@ -10,7 +10,6 @@ import urllib.request
 import os
 import string
 import sys
-import helperMajasdarbs
 
 #####################
 ## Funkcijas
